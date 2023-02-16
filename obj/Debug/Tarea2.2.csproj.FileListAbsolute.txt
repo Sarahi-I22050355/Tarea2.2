@@ -1,0 +1,11 @@
+C:\Users\Sarah\source\repos\Tarea2.2\bin\Debug\Tarea2.2.exe.config
+C:\Users\Sarah\source\repos\Tarea2.2\bin\Debug\Tarea2.2.exe
+C:\Users\Sarah\source\repos\Tarea2.2\bin\Debug\Tarea2.2.pdb
+C:\Users\Sarah\source\repos\Tarea2.2\obj\Debug\Tarea2.2.csproj.AssemblyReference.cache
+C:\Users\Sarah\source\repos\Tarea2.2\obj\Debug\Tarea2.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sarah\source\repos\Tarea2.2\obj\Debug\Tarea2._2.Form1.resources
+C:\Users\Sarah\source\repos\Tarea2.2\obj\Debug\Tarea2._2.Properties.Resources.resources
+C:\Users\Sarah\source\repos\Tarea2.2\obj\Debug\Tarea2.2.csproj.GenerateResource.cache
+C:\Users\Sarah\source\repos\Tarea2.2\obj\Debug\Tarea2.2.csproj.CoreCompileInputs.cache
+C:\Users\Sarah\source\repos\Tarea2.2\obj\Debug\Tarea2.2.exe
+C:\Users\Sarah\source\repos\Tarea2.2\obj\Debug\Tarea2.2.pdb
